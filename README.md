@@ -1,2 +1,2 @@
 # uni-relational-database-assignment
-This is my final university project for a module in databases 
+This is my final university project for a module in databases. The specification given was to create a relational database that replicates the hotel website 'Booking.com'. The dB should replicate how a user would search for a hotel, find a room, add any surcharges and book it for a specific date. The final report for this is also included. This module was given a merit classification.  
